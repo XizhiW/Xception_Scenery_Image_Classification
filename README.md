@@ -8,5 +8,5 @@ Built and used my own convolutional neural network and 4 other pre-trained CNNs 
 ### 4. Self-Built Model (83.53%)
 ### 5. ResNet-50 (69.4%)
 ## Confusion Matrix for Inception and Xception
-* ![Inception](img/Inception.svg)
+* ![Inception](img/Inception.png)
 * ![Xception](img/Xception.png)
