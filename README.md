@@ -7,5 +7,6 @@ Built and used my own convolutional neural network and 4 other pre-trained CNNs 
 ### 3. Vgg-16 (88.73%)
 ### 4. Self-Built Model (83.53%)
 ### 5. ResNet-50 (69.4%)
-![Inception](https://github.com/XizhiW/Xception_Scenery_Image_Classification/tree/main/img/Inception.png)
-![Xception](https://github.com/XizhiW/Xception_Scenery_Image_Classification/tree/main/img/Xception.png)
+## Confusion Matrix for Inception and Xception
+* ![Inception](https://github.com/XizhiW/Xception_Scenery_Image_Classification/tree/main/img/Inception.png)
+* ![Xception](https://github.com/XizhiW/Xception_Scenery_Image_Classification/tree/main/img/Xception.png)
